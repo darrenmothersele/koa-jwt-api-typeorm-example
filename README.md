@@ -7,3 +7,12 @@ An example API that uses Koa. Features:
 - ORM (typeorm)
 - Router, CORS, logging
 
+# Install
+
+    yarn
+    
+# Start
+
+Start the dev server (nodemon and ts-node):
+
+    yarn start
